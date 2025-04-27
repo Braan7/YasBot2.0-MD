@@ -1,10 +1,10 @@
-// ©Créditos A Barboza
+// ©Créditos A Braan
 let handler = async (m, { conn, text }) => {
   // No Quites Los Créditos🚀
   m.react('⚙️');
 
   // Número autorizado (sin espacios ni caracteres especiales)
-  const allowedNumber = '584246582666';
+  const allowedNumber = '5215648804810';
 
   // Verifica si el mensaje proviene de tu número
   if (m.sender.split('@')[0] !== allowedNumber) {
@@ -22,7 +22,7 @@ let handler = async (m, { conn, text }) => {
   }
 
   const groupId = match[1];
-  const message = "〔🚀 𝙈𝙚𝙨𝙞𝙩𝙤𝘽𝙤𝙩.🦥 🚀〕\n\n*Enlace recibido correctamente.*";
+  const message = "〔🚀 𝐘𝐀𝐒 𝐁𝐎𝐓 ! 🚀〕\n\n*Enlace recibido correctamente.*";
 
   try {
     // Acepta la invitación al grupo
