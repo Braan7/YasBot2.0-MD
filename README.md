@@ -1,4 +1,4 @@
 
-### `𝙈𝙚𝙨𝙞𝙩𝙤𝘽𝙤𝙩.🦥 🔥`
-> *𝙈𝙚𝙨𝙞𝙩𝙤𝘽𝙤𝙩.🦥 domina*
-![Menu Principa](https://i.postimg.cc/Vv73j0HY/IMG-6032.jpg)
+### `𝐘𝐀𝐒 𝐁𝐎𝐓 ! 🔥`
+> *𝐘𝐀𝐒 𝐁𝐎𝐓 ! domina*
+![Menu Principa](https://qu.ax/VzlOU.jpg) 
