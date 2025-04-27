@@ -46,8 +46,8 @@ var handler = async function (m, conn, db) {
     let asistencia = 'Wa.me/5804146277368'
 
     // Lista de canales
-    let canalIdM = ["120363420772801839@newsletter", "120363420772801839@newsletter"]
-    let canalNombreM = ["𝙈𝙚𝙨𝙞𝙩𝙤𝘽𝙤𝙩.🦥", "✧┊┋◟𝙈𝙚𝙨𝙞𝙩𝙤𝘽𝙤𝙩.🦥◞┊┋✧"]
+    let canalIdM = ["120363398043363641@newsletter", "120363398043363641@newsletter"]
+    let canalNombreM = ["𝐘𝐀𝐒 𝐁𝐎𝐓 !", "✧┊┋◟𝐘𝐀𝐒 𝐁𝐎𝐓 !◞┊┋✧"]
     
     async function getRandomChannel() {
         let randomIndex = Math.floor(Math.random() * canalIdM.length)
