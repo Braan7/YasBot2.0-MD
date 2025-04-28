@@ -56,7 +56,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
     case WAMessageStubType.GROUP_PARTICIPANT_ADD: 
       message = chat.sWelcome
         ? chat.sWelcome.replace('@user', taguser).replace('@subject', groupMetadata.subject)
-        : `_🙂 Hola *${taguser}*, bienvenid@ al grupo *${groupMetadata.subject}*._`;
+        : `_🎀 Hola *${taguser}*, bienvenid@ al grupo *${groupMetadata.subject}*._`;
       break;
     case WAMessageStubType.GROUP_PARTICIPANT_REMOVE:
       message = chat.sBye
