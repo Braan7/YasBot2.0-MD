@@ -27,20 +27,20 @@ END:VCARD`
   let pp = await conn.profilePictureUrl(m.chat, 'image').catch(_ => null) || 'https://files.catbox.moe/xr2m6u.jpg'
 
   let nombre = `
-╔═【 🚀 𝐘𝐀𝐒 𝐁𝐎𝐓 ALERTA 】═╗
+╔═【 🚀 𝐘𝐀𝐒 𝐁𝐎𝐓 】═╗
 ║ *${usuario}* ha reconfigurado el cosmos del grupo.
 ║ ✨ Nuevo nombre detectado:
 ║   » *<${m.messageStubParameters[0]}>*
 ╚════════════════════════╝`
   
   let foto = `
-╔═【 🪐 𝐘𝐀𝐒 𝐁𝐎𝐓 OBSERVA 】═╗
+╔═【 🪐 𝐘𝐀𝐒 𝐁𝐎𝐓 】═╗
 ║ *${usuario}* ha reprogramado la imagen del universo.
 ║ 📸 Nueva imagen aplicada al grupo.
 ╚════════════════════════╝`
   
   let edit = `
-╔═【 💫 𝐘𝐀𝐒 𝐁𝐎𝐓 CONFIG 】═╗
+╔═【 💫 𝐘𝐀𝐒 𝐁𝐎𝐓 】═╗
 ║ *${usuario}* ha modificado los protocolos.
 ║ Configuración actual: ${m.messageStubParameters[0] == 'on' ? 'Solo administradores' : 'Todos'}
 ╚═══════════════════════╝`
@@ -52,20 +52,20 @@ END:VCARD`
 ╚═══════════════════════╝`
   
   let status = `
-╔═【🔓 𝐘𝐀𝐒 𝐁𝐎𝐓 STATUS 】═╗
+╔═【🔓 𝐘𝐀𝐒 𝐁𝐎𝐓 】═╗
 ║ El grupo se encuentra ahora ${m.messageStubParameters[0] == 'on' ? '*cerrado 🔒*' : '*abierto 🔓*'}.
 ║ Acción realizada por: *${usuario}*
 ║ Configuración: ${m.messageStubParameters[0] == 'on' ? 'Solo administradores' : 'Todos'}
 ╚═══════════════════════╝`
   
   let admingp = `
-╔═【 👑 𝐘𝐀𝐒 𝐁𝐎𝐓 ADMIN 】═╗
+╔═【 👑 𝐘𝐀𝐒 𝐁𝐎𝐓 】═╗
 ║ *${m.messageStubParameters[0].split`@`[0]}* ha sido ascendido al Olimpo de los administradores.
 ║ Operación ejecutada por: *${usuario}*
 ╚═══════════════════════╝`
   
   let noadmingp = `
-╔═【⚠️ 𝐘𝐀𝐒 𝐁𝐎𝐓 REMOCIÓN】═╗
+╔═【⚠️ 𝐘𝐀𝐒 𝐁𝐎𝐓 】═╗
 ║ *${m.messageStubParameters[0].split`@`[0]}* ha descendido de su trono de administrador.
 ║ Acción realizada por: *${usuario}*
 ╚═══════════════════════╝`
