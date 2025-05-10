@@ -9,8 +9,8 @@ import axios from 'axios'
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.owner = [
-  ['5492915092945', '𝐘𝐀𝐒 𝐁𝐎𝐓',true],
-  ['5214425720856', '𝐘𝐀𝐒 ',true],
+  ['5492915092945', 'BraanBot',true],
+  ['5214425720856', 'BraanBot',true],
   ['5215648804810', 'Braan',true],
   ['5215648527333', 'SOPORTRE',true],
   ['5219986160878', 'x',true],
@@ -24,11 +24,11 @@ global.prems = []
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝐘𝐀𝐒 /`
-global.author = ' 𝐘𝐀𝐒 𝐁𝐎𝐓 🦥'
-global.stickpack = '𝐘𝐀𝐒 𝐁𝐎𝐓 🦥'
-global.stickauth = '𝐘𝐀𝐒 𝐁𝐎𝐓 🦥'
-global.wm = '𝐘𝐀𝐒 𝐁𝐎𝐓 🦥'
+global.packname = `BraanBot/`
+global.author = 'BraanBot🦥'
+global.stickpack = 'BraanBot 🦥'
+global.stickauth = 'BraanBot 🦥'
+global.wm = 'BraanBot 🦥'
 global.dev = '𝘗𝘰𝘸𝘦𝘳 𝘉𝘺 𝘉raan7'
 global.wait = '🌪️ *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾...\n\n> 𝐘𝐀𝐒 𝐁𝐎𝐓 🦥'
 global.botname = '𝐘𝐀𝐒 𝐁𝐎𝐓 🦥'
