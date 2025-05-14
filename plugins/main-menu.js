@@ -5,7 +5,7 @@ let handler = async (m, { conn }) => {
     
     let name = await conn.getName(m.sender);
 
-    let texto = `💗• 𝘝𝘦𝘯𝘵𝘢 𝘥𝘦 𝘱𝘭𝘢𝘵𝘢𝘧𝘰𝘳𝘮𝘢𝘴 𝘺 𝘣𝘰𝘵𝘴 𝘢𝘭 +52 xxxxxxxx
+    let texto = `💗• 𝘝𝘦𝘯𝘵𝘢 𝘥𝘦 𝘱𝘭𝘢𝘵𝘢𝘧𝘰𝘳𝘮𝘢𝘴 𝘺 𝘣𝘰𝘵𝘴 𝘢𝘭 +52 442 572 0856 
 
 Creador de Bots: +52 56 4880 4810.
 Escribeme al privado para renta o personalización de Bots. 
